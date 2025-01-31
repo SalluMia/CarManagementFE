@@ -78,8 +78,5 @@ yarn build
 
 This will generate a `build/` folder containing the production-ready files.
 
-## Conclusion
-You have successfully installed and set up the project! For further customization, refer to the official documentation of each package as needed.
-
 Happy coding! 🚀
 
