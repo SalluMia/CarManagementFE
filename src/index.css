@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* //for unique colors */
 .unique-color{
     background-color: #4361ee !important;
 }
